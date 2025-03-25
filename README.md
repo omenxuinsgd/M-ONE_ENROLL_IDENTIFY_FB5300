@@ -31,9 +31,11 @@ This project is a **Fingerprint Enrollment and Identification System** developed
    ```bash
    git clone https://github.com/omenxuinsgd/M-ONE_ENROLL_IDENTIFY_FB5300.git
    cd M-ONE_ENROLL_IDENTIFY_FB5300
+   ```
 2. **Install Required Packages: Make sure you have Python and pip installed. Then, install the required packages**
   ```bash
   pip install <REQUIREMENTS LIBRARY>
+  ```
 3. **Set Up the DigitalPersona SDK**
 - Download and install the DigitalPersona SDK from the official website.
 - Ensure that the SDK's DLLs are accessible in your system's PATH.
